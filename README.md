@@ -1,6 +1,6 @@
 # README
 
-## Exploring the Viability of a Machine Learning-Based Multimodel for Quantitative Precipitation Forecast Post-Processing"* submitted to *Water Resources Research
+## Exploring the Viability of a Machine Learning-Based Multimodel for Quantitative Precipitation Forecast Post-Processing* submitted to *Water Resources Research
 
 This repository supports the work *"Exploring the Viability of a Machine Learning-Based Multimodel for Quantitative Precipitation Forecast Post-Processing"* submitted to *Water Resources Research*. The aim of this study is to assess supervised machine learning as a framework for creating a multimodel that effectively blends multiple Numerical Weather Prediction (NWP) models to enhance precipitation forecast post-processing.
 
